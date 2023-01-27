@@ -1,0 +1,7 @@
+base   simplensbanner
+author Jean-Philippe Moignez
+email  noway@gmail.com
+date   2023-01-27
+name   Simple NS Banner Plugin
+desc   Le plugin "Simple NS Banner" pour DokuWiki permet d'afficher automatiquement une bannière statique sur chaque page des namespace "pole_se:lille" "pole_se:commun" "pole_se:gps" "pole_se:nantes" "pole_se:strasbourg_europe" "pole_se:toulouse" "pole_se:vendee" 
+url    https://github.com/jpicam/Dokuwiki_SimpleNSBanner
