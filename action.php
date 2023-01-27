@@ -17,7 +17,7 @@ class action_plugin_simplensbanner extends DokuWiki_Action_Plugin {
 		$namespace = getNS(cleanID(getID()));
 
 		if (substr($namespace, 0, 13) == 'pole_se:lille') {
-			echo '<div class="approval approved_no"><span class="approval_draft">';
+			echo '<div class="approval approved_yes"><span class="approval_draft">';
 			echo 'Cette page n\'est valable que pour le site de LILLE.';
 			echo '</span></div>';
         } 
